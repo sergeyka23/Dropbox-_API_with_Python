@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import dropbox
 from dropbox import DropboxOAuth2FlowNoRedirect
 
